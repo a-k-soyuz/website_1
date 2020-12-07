@@ -1,0 +1,9 @@
+@charset "UTF-8";
+table {
+    table-layout: fixed;
+}
+
+tbody {
+    display: block;
+    overflow: scroll;
+}
